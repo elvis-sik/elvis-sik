@@ -1,8 +1,8 @@
 # Elvis Sikora
 
-I'm building the field of incident science at [Gutenberg](https://gutenberg.ai/). Check [swarms.wiki](https://swarms.wiki/)!
+I'm building the field of incident science at [Gutenberg](https://gutenberg.ai/). Check out [swarms.wiki](https://swarms.wiki/)!
 
-As a Visiting Fellow at [Mox](https://moxsf.com/), I am also doing research on forecasting-based decision making.
+I also research forecasting-based decision making as a Visiting Fellow at [Mox](https://moxsf.com/).
 
 Personal projects:
 
